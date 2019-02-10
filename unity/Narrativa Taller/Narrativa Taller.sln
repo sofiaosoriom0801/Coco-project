@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narrativa Taller.Plugins", "Narrativa Taller.Plugins.csproj", "{512B62D5-A827-F137-299B-3EB8F5EDA58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narrativa Taller.Editor", "Narrativa Taller.Editor.csproj", "{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narrativa Taller", "Narrativa Taller.csproj", "{B5553172-90BF-EBB1-5FF8-A319E9538111}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narrativa Taller.Editor", "Narrativa Taller.Editor.csproj", "{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}"
 EndProject
@@ -17,10 +19,10 @@ Global
 		{512B62D5-A827-F137-299B-3EB8F5EDA58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{512B62D5-A827-F137-299B-3EB8F5EDA58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{512B62D5-A827-F137-299B-3EB8F5EDA58F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5553172-90BF-EBB1-5FF8-A319E9538111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5553172-90BF-EBB1-5FF8-A319E9538111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5553172-90BF-EBB1-5FF8-A319E9538111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5553172-90BF-EBB1-5FF8-A319E9538111}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E681EB4-3DCB-09B7-FAB5-8FE3B5F3FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -28,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B5D137-0ABA-4855-873E-3E3CDEAF3A18}
 	EndGlobalSection
 EndGlobal
