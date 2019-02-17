@@ -342,6 +342,10 @@
       <Project>{512B62D5-A827-F137-299B-3EB8F5EDA58F}</Project>
       <Name>Narrativa Taller.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="Narrativa Taller.csproj">
+      <Project>{B5553172-90BF-EBB1-5FF8-A319E9538111}</Project>
+      <Name>Narrativa Taller</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="C:\Users\Sofia\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor\Importer.cs" />
