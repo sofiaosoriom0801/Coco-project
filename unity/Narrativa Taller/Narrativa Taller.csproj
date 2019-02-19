@@ -302,8 +302,23 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\daynight.cs" />
-    <Compile Include="Assets\nightday.cs" />
+    <Compile Include="Assets\scripts\answer1.cs" />
+    <Compile Include="Assets\scripts\answer2.cs" />
+    <Compile Include="Assets\scripts\camera.cs" />
+    <Compile Include="Assets\scripts\contadorbichos.cs" />
+    <Compile Include="Assets\scripts\daynight.cs" />
+    <Compile Include="Assets\scripts\denochetext.cs" />
+    <Compile Include="Assets\scripts\despertaraviso.cs" />
+    <Compile Include="Assets\scripts\dialogo.cs" />
+    <Compile Include="Assets\scripts\loadscene.cs" />
+    <Compile Include="Assets\scripts\lostrestext.cs" />
+    <Compile Include="Assets\scripts\nightday.cs" />
+    <Compile Include="Assets\scripts\skyfirst.cs" />
+    <Compile Include="Assets\scripts\text_welcome.cs" />
+    <Compile Include="Assets\scripts\walking.cs" />
+    <Compile Include="Assets\scripts\walkingtest.cs" />
+    <Compile Include="Assets\scripts\warncoli.cs" />
+    <Compile Include="Assets\scripts\warning.cs" />
     <Compile Include="Assets\SkythianCat\Glowing_Forest\Scripts\WaterGroup.cs" />
   </ItemGroup>
   <ItemGroup>

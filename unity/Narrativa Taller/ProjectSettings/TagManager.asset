@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - terrain
+  - bicho
+  - bicho2
+  - bicho3
+  - bicho4
+  - border
   layers:
   - Default
   - TransparentFX

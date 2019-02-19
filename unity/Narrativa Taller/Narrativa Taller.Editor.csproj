@@ -338,13 +338,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Narrativa Taller.Plugins.csproj">
-      <Project>{512B62D5-A827-F137-299B-3EB8F5EDA58F}</Project>
-      <Name>Narrativa Taller.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Narrativa Taller.csproj">
       <Project>{B5553172-90BF-EBB1-5FF8-A319E9538111}</Project>
       <Name>Narrativa Taller</Name>
+    </ProjectReference>
+    <ProjectReference Include="Narrativa Taller.Plugins.csproj">
+      <Project>{512B62D5-A827-F137-299B-3EB8F5EDA58F}</Project>
+      <Name>Narrativa Taller.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
