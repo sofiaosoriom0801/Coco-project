@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/escena1.unity
+    guid: a7a28a1d09b7a294dbcd09af66428c90
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/encuentro1.unity
+    guid: 95f744fa16708ef46b8435dfff96aa00
+  - enabled: 1
+    path: Assets/Scenes/mundo2.unity
+    guid: abf0ddecca13f6647afbe8b897cc2582
+  - enabled: 1
+    path: Assets/Scenes/encuentro2.unity
+    guid: 090bfb0c58d120b43812a8875c6e1e04
+  - enabled: 1
+    path: Assets/Scenes/escena2.unity
+    guid: 6302a07734902904d83b127bfffb92d8
+  - enabled: 1
+    path: Assets/Scenes/escena3.unity
+    guid: 033c93b2181c8734599e2d454297d8f7
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: ee60388c9a2b303478acbc84160eb2a4
   m_configObjects: {}
